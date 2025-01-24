@@ -1,4 +1,4 @@
 tensorflow
 joblib
 tqdm
-sklearn
+scikit-learn
